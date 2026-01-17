@@ -1,7 +1,7 @@
 👋 Hi, I'm Sonali Ghuge  
 
 🚀 AWS & DevOps Fresher | Docker | Linux | Git | Ansible | Terraform | Jenkins  
-📍 India  
+📍 Pune
 
 I am an **AWS & DevOps fresher** with hands-on experience in **containerized applications, cloud infrastructure, and automation** through practical DevOps projects.
 
